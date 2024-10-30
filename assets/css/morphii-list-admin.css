@@ -1,0 +1,103 @@
+.morphii-list-group {
+  clear: both;
+  display: block;
+  padding-top: 10px;
+  margin-bottom: 5px;
+}
+
+.morphii-desc {
+    font-size: 14px;
+    font-weight: 600;
+    color: #347dbe;
+}
+
+.morphii-list-group h2 {
+  background-color: #347DBE;
+  color: white;
+  padding: 5px;
+  font-weight: 600;
+}
+
+.morphii-list {
+  clear: left;
+  list-style-type: none;
+  list-style-image: none;
+  padding-left: 0;
+  display: inline-block;
+}
+
+.no-alternates {
+  float: left;
+  margin: 5px 2px !important;
+  padding: 0px 5px;
+  display: inline-block;
+  border: 0px dotted grey;
+  height: 200px;
+}
+
+.alternates {
+  float: left;
+  margin: 5px 2px !important;
+  padding: 0px 5px;
+  display: inline-block;
+  border: 0px dotted grey;
+  height: 200px;
+}
+
+.morphii-name {
+  text-align: center;
+  width: 100%;
+  padding-top: 10px;
+  font-size: 14px;
+  border-bottom: 0px dotted grey;
+}
+
+.morphii-list-image {
+  padding: 1px 5px;
+  margin-top: 4px !important;
+  max-width: 75px !important;
+  max-height: 75px !important;
+}
+
+.morphii-list-info
+{
+  font-size: 12px;
+  text-align: center;
+}
+
+.morphii-list-info select {
+  width: 80%;
+}
+.questions-table th {
+    padding: 5px!important;
+}
+.morphii_answer_url {
+    width: 100px;
+    height: 100px;
+}
+.shortcode-data {
+    background: #d2d2d2;
+    border: 1px solid #989898;
+    padding: 10px!important;
+}
+.morphii-licence-domain {
+    background: #2271b1;
+    padding: 10px;
+    border-radius: 0px;
+    box-shadow: 1px 1px 3px 1px #b0acac;
+    color: #fff;
+    text-decoration: none;
+}
+.morphii-licence-domain:hover {
+    color: #fff;
+}
+.morphii-list-image {
+    padding: 1px 5px;
+    margin-top: 4px !important;
+    max-width: 55px !important;
+    max-height: 55px !important;
+}
+div#morphii-lists .morphi-images {
+    display: -webkit-inline-box;
+    text-align: center;
+}

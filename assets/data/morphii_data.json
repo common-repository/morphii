@@ -1,0 +1,65 @@
+[
+  {
+    "Question_ID": "MWP001",
+    "Question_Name": "How do you feel about your shopping experience? Express yourself with Morphii&reg;",
+    "Morphiies": [
+      {
+        "Disappointed-Delighted": "6542770446598025216_2"
+      }
+    ]    
+  },
+  {
+    "Question_ID": "MWP100",
+    "Question_Name": "How do you feel about our products? Express yourself with Morphii&reg;",
+    "Morphiies": [
+      {
+        "Frustrated": "6533718265862295552",
+        "Disappointed": "6533717983040057344",
+        "Meh": "6533717823323430912",
+        "Delighted": "6533704109450043392_2"
+      }
+    ]    
+  },
+  {
+    "Question_ID": "MWP200",
+    "Question_Name": "How does this content make you feel? Express yourself with Morphii&reg;",
+    "Morphiies": [
+      {
+        "Angry": "6533701265895370752",
+        "Afraid": "6533701038905233408",
+        "Confused": "6533718688784474112",
+        "Happy": "6533704109450043392"
+      }
+    ]
+  },
+  {
+    "Question_ID": "MWP201",
+    "Question_Name": "How does this message make you feel about the future? Express yourself with Morphii&reg;",
+    "Morphiies": [
+      {
+        "Disappointed-Delighted": "6542770446598025216_2"
+      }
+    ]
+  },
+  {
+    "Question_ID": "MWP300",
+    "Question_Name": "How do you feel about the Design and User Experience of this website? Express yourself with Morphii&reg;",
+    "Morphiies": [
+      {
+        "Hate-Love": "6544191894129311744_2"
+      }
+    ]
+  },
+  {
+    "Question_ID": "MWP400",
+    "Question_Name": "How are you feeling today? Express yourself with Morphii&reg;",
+    "Morphiies": [
+      {
+        "Tense": "6533723983905464320",
+        "Grumpy": "6533723671591751680",
+        "Low": "6533723841286062080",
+        "Good": "6533723521351159808"
+      }
+    ]
+  }
+]
